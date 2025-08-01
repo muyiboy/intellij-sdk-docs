@@ -1,3 +1,4 @@
+![47344](https://github.com/user-attachments/assets/82560df3-6910-4eb8-9e77-f9acf4b7b940)
 # User interface overview
 <link-summary>An introduction to IntelliJ IDE layout and core UI components</link-summary>
 
